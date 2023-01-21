@@ -1,0 +1,1001 @@
+id,symbol,name,sector
+1,A,Agilent Technologies Inc.,Industrials
+2,AACG,ATA Creativity Global,Consumer Discretionary
+3,AAPL,Apple Inc.,Technology
+4,AAT,American Assets Trust Inc.,Real Estate
+5,ABG,Asbury Automotive Group Inc,Consumer Discretionary
+6,ABGI,ABG Acquisition Corp. I,Finance
+7,ABNB,Airbnb Inc.,Consumer Discretionary
+8,ABOS,Acumen Pharmaceuticals Inc.,Health Care
+9,ABR,Arbor Realty Trust,Real Estate
+10,ABSI,Absci Corporation,Health Care
+11,AC,Associated Capital Group Inc.,Finance
+12,ACMR,ACM Research Inc.,Technology
+13,ACN,Accenture plc (Ireland),Technology
+14,ACOR,Acorda Therapeutics Inc.,Health Care
+15,ACP,abrdn Income Credit Strategies Fund,Finance
+16,ACQR,Independence Holdings Corp.,Finance
+17,ACQRW,Independence Holdings Corp. Warrant,Finance
+18,ACRE,Ares Commercial Real Estate Corporation,Real Estate
+19,ACRS,Aclaris Therapeutics Inc.,Health Care
+20,ACT,Enact Holdings Inc.,Finance
+21,ACU,Acme United Corporation.,Consumer Discretionary
+22,ACV,Virtus Diversified Income & Convertible Fund,Finance
+23,ACVA,ACV Auctions Inc.,Industrials
+24,ACXP,Acurx Pharmaceuticals Inc.,Health Care
+25,ADAG,Adagene Inc.,Health Care
+26,ADAL,Anthemis Digital Acquisitions I Corp,Finance
+27,ADAP,Adaptimmune Therapeutics plc,Health Care
+28,ADBE,Adobe Inc.,Technology
+29,AMAL,Amalgamated Financial Corp. (DE),Finance
+30,AMAO,American Acquisition Opportunity Inc.,Industrials
+31,AMKR,Amkor Technology Inc.,Technology
+32,AMTI,Applied Molecular Transport Inc.,Health Care
+33,AMV,Atlis Motor Vehicles Inc.,Consumer Discretionary
+34,AMWD,American Woodmark Corporation,Consumer Discretionary
+35,AMWL,American Well Corporation,Technology
+36,AMZN,Amazon.com Inc.,Consumer Discretionary
+37,ANAB,AnaptysBio Inc.,Health Care
+38,ANEB,Anebulo Pharmaceuticals Inc.,Health Care
+39,ANGN,Angion Biomedica Corp.,Health Care
+40,ANGO,AngioDynamics Inc.,Health Care
+41,ANNX,Annexon Inc.,Health Care
+42,ANPC,AnPac Bio-Medical Science Co. Ltd.,Health Care
+43,APAM,Artisan Partners Asset Management Inc.,Finance
+44,APEI,American Public Education Inc.,Consumer Discretionary
+45,APGN,Apexigen Inc.,Health Care
+46,APGNW,Apexigen Inc. Warrant,Health Care
+47,API,Agora Inc.,Technology
+48,APLD,Applied Digital Corporation,Finance
+49,APLE,Apple Hospitality REIT Inc.,Real Estate
+50,APPF,AppFolio Inc.,Technology
+51,APPH,AppHarvest Inc.,Consumer Staples
+52,APPHW,AppHarvest Inc. Warrants,Consumer Staples
+53,APPN,Appian Corporation,Technology
+54,APRE,Aprea Therapeutics Inc. Common stock,Health Care
+55,APRN,Blue Apron Holdings Inc.,Consumer Discretionary
+56,APTV,Aptiv PLC,Consumer Discretionary
+57,APTX,Aptinyx Inc.,Health Care
+58,ARCC,Ares Capital Corporation,Finance
+59,ARCT,Arcturus Therapeutics Holdings Inc.,Health Care
+60,ARDC,Ares Dynamic Credit Allocation Fund Inc.,Finance
+61,ARDS,Aridis Pharmaceuticals Inc.,Health Care
+62,ARDX,Ardelyx Inc.,Health Care
+63,ARGX,argenx SE,Health Care
+64,ARHS,Arhaus Inc.,Consumer Discretionary
+65,ASAXW,Astrea Acquisition Corp. Warrant,Industrials
+66,ASCB,A SPAC II Acquisition Corp.,Finance
+67,ASCBR,A SPAC II Acquisition Corp. Right,Finance
+68,ASGN,ASGN Incorporated,Technology
+69,ASIX,AdvanSix Inc. ,Industrials
+70,ASLE,AerSale Corporation,Consumer Discretionary
+71,ASLN,ASLAN Pharmaceuticals Limited,Health Care
+72,ASMB,Assembly Biosciences Inc.,Health Care
+73,ASML,ASML Holding N.V. New York Registry Shares,Technology
+74,ASND,Ascendis Pharma A/S,Health Care
+75,ASNS,Actelis Networks Inc.,Telecommunications
+76,ASO,Academy Sports and Outdoors Inc.,Consumer Discretionary
+77,ASPA,ABRI SPAC I INC.,Industrials
+78,ASPI,ASP Isotopes Inc.,Industrials
+79,ASPN,Aspen Aerogels Inc.,Industrials
+80,ASTE,Astec Industries Inc.,Industrials
+81,ATLC,Atlanticus Holdings Corporation,Finance
+82,ATNF,180 Life Sciences Corp.,Health Care
+83,ATNFW,180 Life Sciences Corp. Warrant,Health Care
+84,ATNX,Athenex Inc.,Health Care
+85,ATOM,Atomera Incorporated,Technology
+86,ATOS,Atossa Therapeutics Inc.,Health Care
+87,ATRA,Atara Biotherapeutics Inc.,Health Care
+88,ATRC,AtriCure Inc.,Health Care
+89,ATUS,Altice USA Inc.,Telecommunications
+90,ATXI,Avenue Therapeutics Inc.,Health Care
+91,ATXS,Astria Therapeutics Inc.,Health Care
+92,AUDC,AudioCodes Ltd.,Utilities
+93,AUR,Aurora Innovation Inc.,Technology
+94,AVCT,American Virtual Cloud Technologies Inc.,Technology
+95,AVCTW,American Virtual Cloud Technologies Inc.,Technology
+96,AVD,American Vanguard Corporation (0.10 Par Value),Industrials
+97,AVDX,AvidXchange Holdings Inc.,Technology
+98,AVEO,AVEO Pharmaceuticals Inc.,Health Care
+99,AVGO,Broadcom Inc.,Technology
+100,AVGR,Avinger Inc.,Health Care
+101,AVHI,Achari Ventures Holdings Corp. I,Industrials
+102,AVHIW,Achari Ventures Holdings Corp. I Warrant,Industrials
+103,AVID,Avid Technology Inc.,Technology
+104,AVIR,Atea Pharmaceuticals Inc.,Health Care
+105,AVK,Advent Convertible and Income Fund,Finance
+106,AVTX,Avalo Therapeutics Inc.,Health Care
+107,AWF,Alliancebernstein Global High Income Fund,Finance
+108,AWK,American Water Works Company Inc.,Utilities
+109,AWP,abrdn Global Premier Properties Fund,Finance
+110,AWRE,Aware Inc.,Technology
+111,AWX,Avalon Holdings Corporation,Utilities
+112,AX,Axos Financial Inc.,Finance
+113,AXLA,Axcella Health Inc.,Health Care
+114,AXNX,Axonics Inc.,Health Care
+115,AXON,Axon Enterprise Inc.,Consumer Discretionary
+116,AXS,Axis Capital Holdings Limited,Finance
+117,AXSM,Axsome Therapeutics Inc.,Health Care
+118,AXTA,Axalta Coating Systems Ltd.,Consumer Discretionary
+119,AXTI,AXT Inc,Technology
+120,AY,Atlantica Sustainable Infrastructure plc,Utilities
+121,AYLA,Ayala Pharmaceuticals Inc.,Health Care
+122,AYX,Alteryx Inc.,Technology
+123,AZRE,Azure Power Global Limited Equity Shares,Utilities
+124,AZUL,Azul S.A.,Consumer Discretionary
+125,AZYO,Aziyo Biologics Inc.,Health Care
+126,BABA,Alibaba Group Holding Limited,Consumer Discretionary
+127,BACK,IMAC Holdings Inc.,Health Care
+128,BAH,Booz Allen Hamilton Holding Corporation,Consumer Discretionary
+129,BAND,Bandwidth Inc.,Technology
+130,BANF,BancFirst Corporation,Finance
+131,BAOS,Baosheng Media Group Holdings Limited,Consumer Discretionary
+132,BASE,Couchbase Inc.,Technology
+133,BFRI,Biofrontera Inc.,Health Care
+134,BFRIW,Biofrontera Inc. Warrants,Health Care
+135,BFS,Saul Centers Inc.,Real Estate
+136,BFZ,BlackRock California Municipal Income Trust,Finance
+137,BG,Bunge Limited Bunge Limited,Consumer Staples
+138,BGFV,Big 5 Sporting Goods Corporation,Consumer Discretionary
+139,BGH,Barings Global Short Duration High Yield Fund,Finance
+140,BGNE,BeiGene Ltd.,Health Care
+141,BGR,BlackRock Energy and Resources Trust,Finance
+142,BGRY,Berkshire Grey Inc.,Industrials
+143,BGRYW,Berkshire Grey Inc. Warrant,Industrials
+144,BKN,BlackRock Investment Quality Municipal Trust Inc. (The),Finance
+145,BKU,BankUnited Inc.,Finance
+146,BL,BlackLine Inc.,Technology
+147,BLBD,Blue Bird Corporation,Consumer Discretionary
+148,BLCM,Bellicum Pharmaceuticals Inc.,Health Care
+149,BLD,TopBuild Corp.,Industrials
+150,BNFT,Benefitfocus Inc.,Technology
+151,BNNRW,Banner Acquisition Corp. Warrants,Industrials
+152,BNOX,Bionomics Limited American Depository Shares,Health Care
+153,BNR,Burning Rock Biotech Limited,Health Care
+154,BNTC,Benitec Biopharma Inc.,Health Care
+155,BNTX,BioNTech SE,Health Care
+156,BOAC,Bluescape Opportunities Acquisition Corp.,Finance
+157,BRZE,Braze Inc.,Technology
+158,BSBR,Banco Santander Brasil SA,Finance
+159,BTBT,Bit Digital Inc.,Finance
+160,BTI,British American Tobacco Industries p.l.c. ADR,Health Care
+161,BTO,John Hancock Financial Opportunities Fund,Finance
+162,BTOG,Bit Origin Limited,Consumer Staples
+163,BTT,BlackRock Municipal 2030 Target Term Trust,Finance
+164,BTTX,Better Therapeutics Inc.,Health Care
+165,BTU,Peabody Energy Corporation ,Energy
+166,BTWN,Bridgetown Holdings Limited,Finance
+167,BV,BrightView Holdings Inc.,Consumer Discretionary
+168,BWACW,Better World Acquisition Corp. Warrants,Industrials
+169,BWB,Bridgewater Bancshares Inc.,Finance
+170,BYD,Boyd Gaming Corporation,Consumer Discretionary
+171,BYM,Blackrock Municipal Income Quality Trust,Finance
+172,BYND,Beyond Meat Inc.,Consumer Staples
+173,BYNO,byNordic Acquisition Corporation,Industrials
+174,BYNOW,byNordic Acquisition Corporation Warrant,Industrials
+175,BYSI,BeyondSpring Inc.,Health Care
+176,BYTS,BYTE Acquisition Corp.,Finance
+177,BZ,KANZHUN LIMITED American Depository Shares,Technology
+178,CBD,Companhia Brasileira de Distribuicao American Depsitary Shares,Consumer Staples
+179,CBH,Virtus Convertible & Income 2024 Target Term Fund,Finance
+180,CBIO,Catalyst Biosciences Inc.,Health Care
+181,CBL,CBL & Associates Properties Inc.,Real Estate
+182,CBNK,Capital Bancorp Inc.,Finance
+183,CBRG,Chain Bridge I,Finance
+184,CBRL,Cracker Barrel Old Country Store Inc,Consumer Discretionary
+185,CC,Chemours Company (The),Industrials
+186,CCAI,Cascadia Acquisition Corp.,Industrials
+187,CCB,Coastal Financial Corporation,Finance
+188,CCCC,C4 Therapeutics Inc.,Health Care
+189,CCEL,Cryo-Cell International Inc.,Health Care
+190,CDTX,Cidara Therapeutics Inc.,Health Care
+191,CDW,CDW Corporation,Consumer Discretionary
+192,CDXS,Codexis Inc.,Health Care
+193,CE,Celanese Corporation Celanese Corporation,Industrials
+194,CEA,China Eastern Airlines Corporation Ltd.,Consumer Discretionary
+195,CECO,CECO Environmental Corp.,Industrials
+196,CELC,Celcuity Inc.,Health Care
+197,CELU,Celularity Inc.,Health Care
+198,CELUW,Celularity Inc. Warrant,Health Care
+199,CEM,ClearBridge MLP and Midstream Fund Inc.,Finance
+200,CEN,Center Coast Brookfield MLP & Energy Infrastructure Fund,Finance
+201,CENQ,CENAQ Energy Corp.,Industrials
+202,CENX,Century Aluminum Company,Industrials
+203,CERE,Cerevel Therapeutics Holdings Inc.,Health Care
+204,CERS,Cerus Corporation,Health Care
+205,CERT,Certara Inc.,Technology
+206,CET,Central Securities Corporation,Finance
+207,CEV,Eaton Vance California Municipal Income Trust Shares of Beneficial Interest,Finance
+208,CF,CF Industries Holdings Inc.,Industrials
+209,CFB,CrossFirst Bankshares Inc.,Finance
+210,CFFE,CF Acquisition Corp. VIII,Industrials
+211,CFMS,Conformis Inc.,Health Care
+212,CIIGW,CIIG Capital Partners II Inc. Warrant,Industrials
+213,CIM,Chimera Investment Corporation,Real Estate
+214,CINC,CinCor Pharma Inc.,Health Care
+215,CING,Cingulate Inc.,Health Care
+216,CIVI,Civitas Resources Inc.,Energy
+217,CIX,CompX International Inc.,Technology
+218,CKX,CKX Lands Inc.,Energy
+219,CLB,Core Laboratories N.V.,Energy
+220,CLBK,Columbia Financial Inc.,Finance
+221,CLDT,Chatham Lodging Trust (REIT),Real Estate
+222,CLEU,China Liberal Education Holdings Limited,Real Estate
+223,CLRC,ClimateRock,Finance
+224,CLSD,Clearside Biomedical Inc.,Health Care
+225,CLWT,Euro Tech Holdings Company Limited,Industrials
+226,CLXT,Calyxt Inc.,Consumer Discretionary
+227,CMCA,Capitalworks Emerging Markets Acquisition Corp,Finance
+228,CMCO,Columbus McKinnon Corporation,Industrials
+229,CME,CME Group Inc.,Finance
+230,CMG,Chipotle Mexican Grill Inc.,Consumer Discretionary
+231,CMMB,Chemomab Therapeutics Ltd.,Health Care
+232,CMP,Compass Minerals Intl Inc,Basic Materials
+233,CMPO,CompoSecure Inc.,Industrials
+234,CMPOW,CompoSecure Inc. Warrant,Industrials
+235,CMPR,Cimpress plc (Ireland),Consumer Discretionary
+236,CMPS,COMPASS Pathways Plc American Depository Shares,Health Care
+237,COEP,Coeptis Therapeutics Holdings Inc.,Health Care
+238,COEPW,Coeptis Therapeutics Holdings Inc. Warrants,Health Care
+239,COF,Capital One Financial Corporation,Finance
+240,COGT,Cogent Biosciences Inc.,Health Care
+241,COKE,Coca-Cola Consolidated Inc.,Consumer Staples
+242,COLB,Columbia Banking System Inc.,Finance
+243,COLD,Americold Realty Trust Inc.,Real Estate
+244,COLL,Collegium Pharmaceutical Inc.,Health Care
+245,COLM,Columbia Sportswear Company,Consumer Discretionary
+246,COMM,CommScope Holding Company Inc.,Technology
+247,CONN,Conn's Inc.,Consumer Discretionary
+248,CONX,CONX Corp.,Industrials
+249,CPLP,Capital Product Partners L.P. Common Units,Consumer Discretionary
+250,CPOP,Pop Culture Group Co. Ltd,Consumer Discretionary
+251,CPRI,Capri Holdings Limited,Consumer Discretionary
+252,CPRT,Copart Inc. (DE),Consumer Discretionary
+253,CPRX,Catalyst Pharmaceuticals Inc.,Health Care
+254,CPSI,Computer Programs and Systems Inc.,Technology
+255,CRM,Salesforce Inc.,Technology
+256,CRNX,Crinetics Pharmaceuticals Inc.,Health Care
+257,CROX,Crocs Inc.,Consumer Discretionary
+258,CRSP,CRISPR Therapeutics AG,Health Care
+259,CRSR,Corsair Gaming Inc.,Technology
+260,CRT,Cross Timbers Royalty Trust,Energy
+261,CRZNW,Corazon Capital V838 Monoceros Corp Warrant,Finance
+262,CSCO,Cisco Systems Inc. (DE),Telecommunications
+263,CSGP,CoStar Group Inc.,Finance
+264,CSGS,CSG Systems International Inc.,Technology
+265,CSII,Cardiovascular Systems Inc.,Health Care
+266,CSLM,Consilium Acquisition Corp I Ltd.,Finance
+267,CSPI,CSP Inc.,Technology
+268,CSQ,Calamos Strategic Total Return,Finance
+269,CSSE,Chicken Soup for the Soul Entertainment Inc.,Consumer Discretionary
+270,CSTE,Caesarstone Ltd.,Consumer Discretionary
+271,CSTL,Castle Biosciences Inc.,Health Care
+272,CSTM,Constellium SE (France),Industrials
+273,CSTR,CapStar Financial Holdings Inc.,Finance
+274,CTAQ,Carney Technology Acquisition Corp. II,Industrials
+275,CTAS,Cintas Corporation,Consumer Discretionary
+276,CTHR,Charles & Colvard Ltd,Consumer Discretionary
+277,CTIB,Yunhong CTI Ltd.,Miscellaneous
+278,CTIC,CTI BioPharma Corp. (DE),Health Care
+279,CTKB,Cytek Biosciences Inc.,Health Care
+280,CTLT,Catalent Inc.,Health Care
+281,CTMX,CytomX Therapeutics Inc.,Health Care
+282,CTO,CTO Realty Growth Inc.,Real Estate
+283,CTOS,Custom Truck One Source Inc.,Consumer Discretionary
+284,CTR,ClearBridge MLP and Midstream Total Return Fund Inc.,Finance
+285,CTRE,CareTrust REIT Inc.,Real Estate
+286,CVRX,CVRx Inc.,Health Care
+287,CVT,Cvent Holding Corp.,Technology
+288,CVU,CPI Aerostructures Inc.,Industrials
+289,CWEN,Clearway Energy Inc. Class C,Utilities
+290,CWH,Camping World Holdings Inc.,Consumer Discretionary
+291,CWST,Casella Waste Systems Inc.,Utilities
+292,CXE,MFS High Income Municipal Trust,Finance
+293,CXH,MFS Investment Grade Municipal Trust,Finance
+294,CYAD,Celyad Oncology SA,Health Care
+295,CYBR,CyberArk Software Ltd.,Technology
+296,CYD,China Yuchai International Limited,Industrials
+297,CYH,Community Health Systems Inc.,Health Care
+298,CYN,Cyngn Inc.,Technology
+299,CYT,Cyteir Therapeutics Inc.,Health Care
+300,CYTK,Cytokinetics Incorporated,Health Care
+301,CYTO,Altamira Therapeutics Ltd. 0.2,Health Care
+302,CYXT,Cyxtera Technologies Inc.,Technology
+303,CZWI,Citizens Community Bancorp Inc.,Finance
+304,DAC,Danaos Corporation,Consumer Discretionary
+305,DBVT,DBV Technologies S.A.,Health Care
+306,DBX,Dropbox Inc.,Technology
+307,DCGO,DocGo Inc.,Health Care
+308,DCPH,Deciphera Pharmaceuticals Inc.,Health Care
+309,DDF,Delaware Investments Dividend & Income Fund Inc.,Finance
+310,DDI,DoubleDown Interactive Co. Ltd. American Depository Shares,Technology
+311,DDOG,Datadog Inc.,Technology
+312,DISH,DISH Network Corporation,Consumer Discretionary
+313,DIT,AMCON Distributing Company,Consumer Discretionary
+314,DK,Delek US Holdings Inc.,Energy
+315,DKDCA,Data Knights Acquisition Corp.,Industrials
+316,DKL,Delek Logistics Partners L.P. Common Units,Energy
+317,DKNG,DraftKings Inc.,Consumer Discretionary
+318,DKS,Dick's Sporting Goods Inc,Consumer Discretionary
+319,DLA,Delta Apparel Inc.,Consumer Discretionary
+320,DLB,Dolby Laboratories,Technology
+321,DMAC,DiaMedica Therapeutics Inc.,Health Care
+322,DMAQ,Deep Medicine Acquisition Corp.,Industrials
+323,DMF,BNY Mellon Municipal Income Inc.,Finance
+324,DMO,Western Asset Mortgage Opportunity Fund Inc.,Finance
+325,DMS,Digital Media Solutions Inc.,Consumer Discretionary
+326,DNAY,Codex DNA Inc.,Health Care
+327,DNB,Dun & Bradstreet Holdings Inc.,Technology
+328,DNLI,Denali Therapeutics Inc.,Health Care
+329,DPG,Duff & Phelps Utility and Infrastructure Fund Inc.,Finance
+330,DPZ,Domino's Pizza Inc,Consumer Discretionary
+331,DQ,DAQO New Energy Corp.,Technology
+332,DRH,Diamondrock Hospitality Company,Real Estate
+333,DRQ,Dril-Quip Inc.,Industrials
+334,DRRX,DURECT Corporation,Health Care
+335,DSEY,Diversey Holdings Ltd.,Consumer Discretionary
+336,DSGN,Design Therapeutics Inc.,Health Care
+337,DSM,BNY Mellon Strategic Municipal Bond Fund Inc.,Finance
+338,DSP,Viant Technology Inc.,Technology
+339,DUNEW,Dune Acquisition Corporation Warrant,Industrials
+340,DUO,Fangdd Network Group Ltd.,Technology
+341,DUOL,Duolingo Inc.,Technology
+342,EAD,Allspring Income Opportunities Fund,Finance
+343,EAF,GrafTech International Ltd.,Consumer Discretionary
+344,EAR,Eargo Inc.,Health Care
+345,EARN,Ellington Residential Mortgage REIT,Real Estate
+346,EBAY,eBay Inc.,Consumer Discretionary
+347,EBC,Eastern Bankshares Inc.,Finance
+348,EBET,EBET INC.,Consumer Discretionary
+349,EDN,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor),Utilities
+350,EDTK,Skillful Craftsman Education Technology Limited,Real Estate
+351,EDTX,EdtechX Holdings Acquisition Corp. II common stock,Industrials
+352,EDU,New Oriental Education & Technology Group Inc.,Real Estate
+353,EEFT,Euronet Worldwide Inc.,Technology
+354,EEIQ,EpicQuest Education Group International Limited,Real Estate
+355,EEX,Emerald Holding Inc.,Consumer Discretionary
+356,EFC,Ellington Financial Inc. ,Real Estate
+357,EFHT,EF Hutton Acquisition Corporation I,Industrials
+358,EFHTW,EF Hutton Acquisition Corporation I Warrant,Industrials
+359,EMO,ClearBridge Energy Midstream Opportunity Fund Inc.,Finance
+360,ENBA,Enbridge Inc 6.375 Fixed-to-Floating Rate Subordinated Notes Series 2018-B due 2078,Energy
+361,ENCP,Energem Corp,Energy
+362,ENCPW,Energem Corp Warrant,Energy
+363,ENER,Accretion Acquisition Corp.,Industrials
+364,ENSG,The Ensign Group Inc.,Health Care
+365,ENTA,Enanta Pharmaceuticals Inc.,Health Care
+366,ENTFW,Enterprise 4.0 Technology Acquisition Corp. Warrant,Finance
+367,ENTG,Entegris Inc.,Technology
+368,ENV,Envestnet Inc,Technology
+369,ENX,Eaton Vance New York Municipal Bond Fund,Finance
+370,ENZ,Enzo Biochem Inc. (0.01 Par Value),Health Care
+371,EOD,Allspring Global Dividend Opportunity Fund,Finance
+372,EOI,Eaton Vance Enhance Equity Income Fund,Finance
+373,EOLS,Evolus Inc.,Health Care
+374,EOT,Eaton Vance Municipal Income Trust,Finance
+375,EP,Empire Petroleum Corporation,Energy
+376,EPAM,EPAM Systems Inc.,Technology
+377,EPHY,Epiphany Technology Acquisition Corp.,Industrials
+378,ERAS,Erasca Inc.,Health Care
+379,ERC,Allspring Multi-Sector Income Fund,Finance
+380,ERII,Energy Recovery Inc.,Technology
+381,ERJ,Embraer S.A.,Industrials
+382,ERYP,Erytech Pharma S.A.,Health Care
+383,FAX,abrdn Asia-Pacific Income Fund Inc.,Finance
+384,FAZE,FaZe Holdings Inc.,Industrials
+385,FAZEW,FaZe Holdings Inc. Warrant,Industrials
+386,FBK,FB Financial Corporation,Finance
+387,FCRD,First Eagle Alternative Capital BDC Inc.,Finance
+388,FCT,First Trust Senior Floating Rate Income Fund II,Finance
+389,FDMT,4D Molecular Therapeutics Inc.,Health Care
+390,FDP,Fresh Del Monte Produce Inc.,Consumer Staples
+391,FDS,FactSet Research Systems Inc.,Finance
+392,FDUS,Fidus Investment Corporation,Finance
+393,FEMY,Femasys Inc.,Health Care
+394,FEN,First Trust Energy Income and Growth Fund,Finance
+395,FENG,Phoenix New Media Limited,Industrials
+396,FET,Forum Energy Technologies Inc.,Industrials
+397,FEXD,Fintech Ecosystem Development Corp.,Industrials
+398,FGEN,FibroGen Inc,Health Care
+399,FOF,Cohen & Steers Closed-End Opportunity Fund Inc.,Finance
+400,FOLD,Amicus Therapeutics Inc.,Health Care
+401,FONR,Fonar Corporation,Health Care
+402,FOR,Forestar Group Inc ,Finance
+403,FORM,FormFactor Inc. FormFactor Inc.,Technology
+404,FORR,Forrester Research Inc.,Consumer Discretionary
+405,FOSL,Fossil Group Inc.,Consumer Discretionary
+406,FOUR,Shift4 Payments Inc.,Technology
+407,FOXF,Fox Factory Holding Corp.,Consumer Discretionary
+408,FPH,Five Point Holdings LLC,Real Estate
+409,FR,First Industrial Realty Trust Inc.,Real Estate
+410,FRA,Blackrock Floating Rate Income Strategies Fund Inc ,Finance
+411,FRBA,First Bank,Finance
+412,FRBNW,Forbion European Acquisition Corp. Warrants,Finance
+413,FRD,Friedman Industries Inc.,Industrials
+414,FUSN,Fusion Pharmaceuticals Inc.,Health Care
+415,GBDC,Golub Capital BDC Inc.,Finance
+416,GBIO,Generation Bio Co.,Health Care
+417,GBNY,Generations Bancorp NY Inc.,Finance
+418,GBR,New Concept Energy Inc,Real Estate
+419,GBRGR,Goldenbridge Acquisition Limited Right,Finance
+420,GBRGW,Goldenbridge Acquisition Limited Warrant,Finance
+421,GBTG,Global Business Travel Group Inc.,Technology
+422,GBX,Greenbrier Companies Inc. (The),Industrials
+423,GCT,GigaCloud Technology Inc,Consumer Discretionary
+424,GDDY,GoDaddy Inc.,Technology
+425,GDL,GDL Fund The,Finance
+426,GHIXW,Gores Holdings IX Inc. Warrant,Industrials
+427,GHL,Greenhill & Co. Inc.,Finance
+428,GHM,Graham Corporation,Industrials
+429,GLU,Gabelli Global Utility,Finance
+430,GLUE,Monte Rosa Therapeutics Inc.,Health Care
+431,GLV,Clough Global Dividend and Income Fund,Finance
+432,GME,GameStop Corporation,Consumer Discretionary
+433,GMED,Globus Medical Inc.,Health Care
+434,GNTY,Guaranty Bancshares Inc.,Finance
+435,GNW,Genworth Financial Inc,Finance
+436,GO,Grocery Outlet Holding Corp.,Consumer Discretionary
+437,GOCO,GoHealth Inc.,Finance
+438,GOGO,Gogo Inc.,Consumer Discretionary
+439,GOL,Gol Linhas Aereas Inteligentes S.A.,Consumer Discretionary
+440,GOLF,Acushnet Holdings Corp.,Consumer Discretionary
+441,GOOD,Gladstone Commercial Corporation Real Estate Investment Trust,Real Estate
+442,GOOG,Alphabet Inc.,Technology
+443,GOOGL,Alphabet Inc.,Technology
+444,GOSS,Gossamer Bio Inc.,Health Care
+445,GPAC,Global Partner Acquisition Corp II,Finance
+446,GPACU,Global Partner Acquisition Corp II Unit,Finance
+447,GPI,Group 1 Automotive Inc.,Consumer Discretionary
+448,GPOR,Gulfport Energy Corporation,Energy
+449,GPRK,Geopark Ltd,Energy
+450,GPRO,GoPro Inc.,Consumer Discretionary
+451,GRPN,Groupon Inc.,Consumer Discretionary
+452,GRTS,Gritstone bio Inc.,Health Care
+453,GRTX,Galera Therapeutics Inc.,Health Care
+454,GSBD,Goldman Sachs BDC Inc.,Finance
+455,GSD,Global Systems Dynamics Inc.,Industrials
+456,GSDWW,Global Systems Dynamics Inc. Warrant,Industrials
+457,GSHD,Goosehead Insurance Inc.,Finance
+458,GSIT,GSI Technology,Technology
+459,GSK,GSK plc,Health Care
+460,HBT,HBT Financial Inc.,Finance
+461,HCA,HCA Healthcare Inc.,Health Care
+462,HCAT,Health Catalyst Inc,Health Care
+463,HCCI,Heritage-Crystal Clean Inc.,Utilities
+464,HCDI,Harbor Custom Development Inc.,Real Estate
+465,HCM,HUTCHMED (China) Limited,Health Care
+466,HCMA,HCM Acquisition Corp,Finance
+467,HCNE,Jaws Hurricane Acquisition Corp.,Industrials
+468,HCNEW,Jaws Hurricane Acquisition Corp. Warrant,Industrials
+469,HUMA,Humacyte Inc.,Health Care
+470,HUMAW,Humacyte Inc. Warrant,Health Care
+471,HUN,Huntsman Corporation,Industrials
+472,HURN,Huron Consulting Group Inc.,Consumer Discretionary
+473,HUYA,HUYA Inc.,Industrials
+474,HVBC,HV Bancorp Inc.,Finance
+475,HWEL,Healthwell Acquisition Corp. I,Industrials
+476,HYB,New America High Income Fund Inc. (The),Finance
+477,HYFM,Hydrofarm Holdings Group Inc.,Industrials
+478,HYMC,Hycroft Mining Holding Corporation,Basic Materials
+479,HYMCW,Hycroft Mining Holding Corporation Warrant,Basic Materials
+480,HYPR,Hyperfine Inc.,Health Care
+481,HYRE,HyreCar Inc.,Consumer Discretionary
+482,HYT,Blackrock Corporate High Yield Fund Inc.,Finance
+483,HYW,Hywin Holdings Ltd.,Finance
+484,ID,PARTS iD Inc.,Consumer Discretionary
+485,IDE,Voya Infrastructure Industrials and Materials Fund,Finance
+486,IDN,Intellicheck Inc.,Technology
+487,IGIC,International General Insurance Holdings Ltd.,Finance
+488,IGMS,IGM Biosciences Inc.,Health Care
+489,IGR,CBRE Global Real Estate Income Fund,Finance
+490,IVVD,Invivyd Inc.,Health Care
+491,IXAQU,IX Acquisition Corp. Unit,Finance
+492,IXAQW,IX Acquisition Corp. Warrant,Finance
+493,JD,JD.com Inc.,Consumer Discretionary
+494,JEQ,abrdn Japan Equity Fund Inc.,Finance
+495,JEWL,Adamas One Corp.,Consumer Discretionary
+496,JFIN,Jiayin Group Inc.,Finance
+497,JFR,Nuveen Floating Rate Income Fund,Finance
+498,JFU,9F Inc.,Finance
+499,JG,Aurora Mobile Limited,Technology
+500,JGGC,Jaguar Global Growth Corporation I,Finance
+501,JGH,Nuveen Global High Income Fund,Finance
+502,JJSF,J & J Snack Foods Corp.,Consumer Staples
+503,JKHY,Jack Henry & Associates Inc.,Technology
+504,JKS,JinkoSolar Holding Company Limited,Technology
+505,JLS,Nuveen Mortgage and Income Fund,Finance
+506,JMACU,Maxpro Capital Acquisition Corp. Units,Industrials
+507,JNCE,Jounce Therapeutics Inc.,Health Care
+508,JNPR,Juniper Networks Inc.,Technology
+509,JOAN,JOANN Inc.,Consumer Discretionary
+510,JOB,GEE Group Inc.,Consumer Discretionary
+511,JOBY,Joby Aviation Inc.,Consumer Discretionary
+512,JRSH,Jerash Holdings (US) Inc.,Consumer Discretionary
+513,JRVR,James River Group Holdings Ltd.,Finance
+514,JSD,Nuveen Short Duration Credit Opportunities Fund,Finance
+515,JVA,Coffee Holding Co. Inc.,Consumer Staples
+516,JWAC,Jupiter Wellness Acquisition Corp.,Industrials
+517,JWEL,Jowell Global Ltd.,Consumer Discretionary
+518,JXJT,JX Luxventure Limited,Consumer Staples
+519,JZ,Jianzhi Education Technology Group Company Limited,Real Estate
+520,JZXN,Jiuzi Holdings Inc.,Consumer Discretionary
+521,KA,Kineta Inc.,Health Care
+522,KACL,Kairous Acquisition Corp. Limited,Finance
+523,KACLR,Kairous Acquisition Corp. Limited Rights,Finance
+524,KAI,Kadant Inc,Technology
+525,KOS,Kosmos Energy Ltd.,Energy
+526,KPLT,Katapult Holdings Inc.,Technology
+527,KPLTW,Katapult Holdings Inc. Warrant,Technology
+528,KPTI,Karyopharm Therapeutics Inc.,Miscellaneous
+529,KRBP,Kiromic BioPharma Inc.,Health Care
+530,KRC,Kilroy Realty Corporation,Real Estate
+531,KREF,KKR Real Estate Finance Trust Inc.,Real Estate
+532,KRG,Kite Realty Group Trust,Real Estate
+533,KRKR,36Kr Holdings Inc.,Consumer Discretionary
+534,KRNL,Kernel Group Holdings Inc.,Finance
+535,KRNLW,Kernel Group Holdings Inc. Warrants,Finance
+536,KRNT,Kornit Digital Ltd.,Industrials
+537,KRNY,Kearny Financial Corp,Finance
+538,KRON,Kronos Bio Inc.,Health Care
+539,KROS,Keros Therapeutics Inc.,Health Care
+540,KRP,Kimbell Royalty Partners Common Units Representing Limited Partner Interests,Energy
+541,KRT,Karat Packaging Inc.,Industrials
+542,KRTX,Karuna Therapeutics Inc.,Health Care
+543,KRUS,Kura Sushi USA Inc.,Consumer Discretionary
+544,KRYS,Krystal Biotech Inc.,Health Care
+545,KSCP,Knightscope Inc.,Technology
+546,KSI,Kadem Sustainable Impact Corporation common stock,Industrials
+547,KSICW,Kadem Sustainable Impact Corporation Warrant,Industrials
+548,KSM,DWS Strategic Municipal Income Trust,Finance
+549,KSS,Kohl's Corporation,Consumer Discretionary
+550,KTCC,Key Tronic Corporation,Technology
+551,KXIN,Kaixin Auto Holdings,Finance
+552,KYCH,Keyarch Acquisition Corporation,Finance
+553,KYCHR,Keyarch Acquisition Corporation Rights,Finance
+554,KYMR,Kymera Therapeutics Inc.,Health Care
+555,KYN,Kayne Anderson Energy Infrastructure Fund Inc.,Finance
+556,KZR,Kezar Life Sciences Inc.,Health Care
+557,LAB,Standard BioTools Inc.,Industrials
+558,LABP,Landos Biopharma Inc.,Health Care
+559,LAMR,Lamar Advertising Company,Real Estate
+560,LAND,Gladstone Land Corporation,Real Estate
+561,LASE,Laser Photonics Corporation,Industrials
+562,LASR,nLIGHT Inc.,Technology
+563,LATG,LatAmGrowth SPAC,Finance
+564,LATGW,LatAmGrowth SPAC Warrants,Finance
+565,LAUR,Laureate Education Inc.,Consumer Discretionary
+566,LAW,CS Disco Inc.,Technology
+567,LAZ,Lazard LTD. Lazard LTD.,Finance
+568,LAZR,Luminar Technologies Inc.,Consumer Discretionary
+569,LEO,BNY Mellon Strategic Municipals Inc.,Finance
+570,LESL,Leslie's Inc.,Miscellaneous
+571,LEVI,Levi Strauss & Co,Consumer Discretionary
+572,LFAC,LF Capital Acquisition Corp. II,Industrials
+573,LJAQ,LightJump Acquisition Corporation,Industrials
+574,LKQ,LKQ Corporation,Consumer Discretionary
+575,LL,LL Flooring Holdings Inc.,Consumer Discretionary
+576,LMAT,LeMaitre Vascular Inc.,Health Care
+577,LMFA,LM Funding America Inc.,Finance
+578,LMND,Lemonade Inc.,Finance
+579,LMST,Limestone Bancorp Inc.,Finance
+580,LNG,Cheniere Energy Inc.,Utilities
+581,LNTH,Lantheus Holdings Inc.,Health Care
+582,LOB,Live Oak Bancshares Inc.,Finance
+583,LOCO,El Pollo Loco Holdings Inc.,Consumer Discretionary
+584,LOGI,Logitech International S.A.,Technology
+585,LOMA,Loma Negra Compania Industrial Argentina Sociedad Anonima ADS,Industrials
+586,LOPE,Grand Canyon Education Inc.,Consumer Discretionary
+587,LPI,Laredo Petroleum Inc.,Energy
+588,LPL,LG Display Co Ltd AMERICAN DEPOSITORY SHARES,Technology
+589,LPLA,LPL Financial Holdings Inc.,Finance
+590,LPSN,LivePerson Inc.,Technology
+591,LPTH,LightPath Technologies Inc.,Technology
+592,LQDA,Liquidia Corporation,Health Care
+593,LTRY,Lottery.com Inc.,Consumer Discretionary
+594,LTRYW,Lottery.com Inc. Warrants,Consumer Discretionary
+595,LU,Lufax Holding Ltd,Finance
+596,MACAW,Moringa Acquisition Corp Warrant,Finance
+597,MACK,Merrimack Pharmaceuticals Inc.,Health Care
+598,MAIN,Main Street Capital Corporation,Finance
+599,MANH,Manhattan Associates Inc.,Technology
+600,MANU,Manchester United Ltd.,Consumer Discretionary
+601,MCRB,Seres Therapeutics Inc.,Health Care
+602,MCRI,Monarch Casino & Resort Inc.,Consumer Discretionary
+603,MDB,MongoDB Inc.,Technology
+604,MDGL,Madrigal Pharmaceuticals Inc.,Health Care
+605,MDJH,MDJM LTD,Finance
+606,MDRR,Medalist Diversified REIT Inc.,Real Estate
+607,MDWD,MediWound Ltd.,Health Care
+608,MEAC,Mercury Ecommerce Acquisition Corp,Industrials
+609,MEACW,Mercury Ecommerce Acquisition Corp Warrants,Industrials
+610,MEDP,Medpace Holdings Inc.,Health Care
+611,MEGL,Magic Empire Global Limited,Finance
+612,MEIP,MEI Pharma Inc.,Health Care
+613,MEKA,MELI Kaszek Pioneer Corp,Finance
+614,MELI,MercadoLibre Inc.,Consumer Discretionary
+615,MEOA,Minority Equality Opportunities Acquisition Inc.,Industrials
+616,MESA,Mesa Air Group Inc.,Consumer Discretionary
+617,MESO,Mesoblast Limited,Health Care
+618,MET,MetLife Inc.,Finance
+619,META,Meta Platforms Inc.,Technology
+620,METC,Ramaco Resources Inc.,Energy
+621,MF,Missfresh Limited,Consumer Discretionary
+622,MGF,MFS Government Markets Income Trust,Finance
+623,MGIC,Magic Software Enterprises Ltd.,Technology
+624,MGNX,MacroGenics Inc.,Health Care
+625,MKSI,MKS Instruments Inc.,Industrials
+626,MKTX,MarketAxess Holdings Inc.,Finance
+627,ML,MoneyLion Inc.,Technology
+628,MSD,Morgan Stanley Emerging Markets Debt Fund Inc.,Finance
+629,MSDA,MSD Acquisition Corp.,Finance
+630,MSFT,Microsoft Corporation,Technology
+631,MSGS,Madison Square Garden Sports Corp. (New),Consumer Discretionary
+632,MTBC,CareCloud Inc.,Health Care
+633,MTC,MMTec Inc.,Technology
+634,MTCN,ArcelorMittal 5.50 Mandatorily Convertible Subordinated Notes due 2023,Industrials
+635,MTCR,Metacrine Inc.,Health Care
+636,MTD,Mettler-Toledo International Inc.,Health Care
+637,MTDR,Matador Resources Company,Energy
+638,MTEM,Molecular Templates Inc.,Health Care
+639,MTG,MGIC Investment Corporation,Finance
+640,MTLS,Materialise NV,Technology
+641,MTMT,Mega Matrix Corp.,Consumer Discretionary
+642,MTN,Vail Resorts Inc.,Consumer Discretionary
+643,MVSTW,Microvast Holdings Inc. Warrants,Industrials
+644,MVT,Blackrock MuniVest Fund II Inc. ,Finance
+645,MWA,MUELLER WATER PRODUCTS,Industrials
+646,MX,Magnachip Semiconductor Corporation,Technology
+647,MXC,Mexco Energy Corporation,Energy
+648,MXCT,MaxCyte Inc.,Health Care
+649,NCSM,NCS Multistage Holdings Inc.,Energy
+650,NCTY,The9 Limited American Depository Shares,Technology
+651,NCV,Virtus Convertible & Income Fund,Finance
+652,NCZ,Virtus Convertible & Income Fund II,Finance
+653,NDLS,Noodles & Company,Consumer Discretionary
+654,NDP,Tortoise Energy Independence Fund Inc.,Finance
+655,NDRA,ENDRA Life Sciences Inc.,Health Care
+656,NEA,Nuveen AMT-Free Quality Municipal Income Fund,Finance
+657,NECB,NorthEast Community Bancorp Inc.,Finance
+658,NEGG,Newegg Commerce Inc.,Consumer Discretionary
+659,NEOG,Neogen Corporation,Health Care
+660,NEP,NextEra Energy Partners LP Common Units representing limited partner interests,Utilities
+661,NERV,Minerva Neurosciences Inc,Health Care
+662,NET,Cloudflare Inc.,Technology
+663,NETI,Eneti Inc.,Consumer Discretionary
+664,NEWR,New Relic Inc.,Technology
+665,NEX,NexTier Oilfield Solutions Inc.,Energy
+666,NEXI,NexImmune Inc.,Health Care
+667,NEXT,NextDecade Corporation,Energy
+668,NFBK,Northfield Bancorp Inc. (Delaware),Finance
+669,NFE,New Fortress Energy Inc.,Utilities
+670,NFJ,Virtus Dividend Interest & Premium Strategy Fund,Finance
+671,NFLX,Netflix Inc.,Consumer Discretionary
+672,NGL,NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests,Energy
+673,NGM,NGM Biopharmaceuticals Inc.,Health Care
+674,NXRT,NexPoint Residential Trust Inc.,Real Estate
+675,NXST,Nexstar Media Group Inc.,Consumer Discretionary
+676,NXTC,NextCure Inc.,Health Care
+677,NYXH,Nyxoah SA,Health Care
+678,NZF,Nuveen Municipal Credit Income Fund ,Finance
+679,OABI,OmniAb Inc.,Health Care
+680,OB,Outbrain Inc.,Industrials
+681,OBNK,Origin Bancorp Inc.,Finance
+682,OBSV,ObsEva SA,Health Care
+683,OLMA,Olema Pharmaceuticals Inc.,Health Care
+684,OLP,One Liberty Properties Inc.,Real Estate
+685,OLPX,Olaplex Holdings Inc.,Miscellaneous
+686,OM,Outset Medical Inc.,Health Care
+687,OMAB,Grupo Aeroportuario del Centro Norte S.A.B. de C.V. ADS,Consumer Discretionary
+688,OMCL,Omnicell Inc. (0.001 par value),Health Care
+689,OMEG,Omega Alpha SPAC,Finance
+690,OMER,Omeros Corporation,Health Care
+691,OMGA,Omega Therapeutics Inc.,Health Care
+692,OMIC,Singular Genomics Systems Inc.,Health Care
+693,ONCR,Oncorus Inc.,Health Care
+694,ONCT,Oncternal Therapeutics Inc.,Health Care
+695,OPAD,Offerpad Solutions Inc.,Finance
+696,OPAL,OPAL Fuels Inc.,Utilities
+697,OPBK,OP Bancorp,Finance
+698,OPGN,OpGen Inc.,Health Care
+699,OPP,RiverNorth/DoubleLine Strategic Opportunity Fund Inc.,Finance
+700,OPRA,Opera Limited,Technology
+701,OPRT,Oportun Financial Corporation,Finance
+702,OPT,Opthea Limited,Health Care
+703,OPTN,OptiNose Inc.,Health Care
+704,OPTT,Ocean Power Technologies Inc.,Industrials
+705,ORA,Ormat Technologies Inc.,Utilities
+706,ORC,Orchid Island Capital Inc.,Real Estate
+707,ORCL,Oracle Corporation,Technology
+708,PGRW,Progress Acquisition Corp.,Industrials
+709,PGTI,PGT Innovations Inc.,Industrials
+710,PHAT,Phathom Pharmaceuticals Inc.,Health Care
+711,PINC,Premier Inc.,Health Care
+712,PINE,Alpine Income Property Trust Inc.,Real Estate
+713,PIXY,ShiftPixy Inc.,Consumer Discretionary
+714,PJT,PJT Partners Inc.,Finance
+715,PK,Park Hotels & Resorts Inc. ,Real Estate
+716,PKBO,Peak Bio Inc.,Health Care
+717,PKBOW,Peak Bio Inc. Warrant,Health Care
+718,PKG,Packaging Corporation of America,Basic Materials
+719,PKX,POSCO Holdings Inc.,Industrials
+720,PYXS,Pyxis Oncology Inc.,Health Care
+721,PZC,PIMCO California Municipal Income Fund III,Finance
+722,PZG,Paramount Gold Nevada Corp.,Basic Materials
+723,PZZA,Papa John's International Inc.,Consumer Discretionary
+724,QCOM,QUALCOMM Incorporated,Technology
+725,QD,Qudian Inc.,Technology
+726,QFIN,360 DigiTech Inc.,Finance
+727,QTEK,QualTek Services Inc.,Consumer Discretionary
+728,RBB,RBB Bancorp,Finance
+729,RBC,RBC Bearings Incorporated,Industrials
+730,RBCAA,Republic Bancorp Inc.,Finance
+731,RBCN,Rubicon Technology Inc.,Technology
+732,RBCP,RBC Bearings Incorporated 5.00 Series A,Industrials
+733,RBKB,Rhinebeck Bancorp Inc.,Finance
+734,RBLX,Roblox Corporation,Technology
+735,RBOT,Vicarious Surgical Inc.,Health Care
+736,RLYB,Rallybio Corporation,Health Care
+737,RM,Regional Management Corp.,Finance
+738,RMBS,Rambus Inc.,Technology
+739,RRR,Red Rock Resorts Inc.,Consumer Discretionary
+740,RRX,Regal Rexnord Corporation,Consumer Discretionary
+741,SAJ,Saratoga Investment Corp 8.00 Notes due 2027,Finance
+742,SALM,Salem Media Group Inc.,Consumer Discretionary
+743,SAMA,Schultze Special Purpose Acquisition Corp. II,Industrials
+744,SAMAU,Schultze Special Purpose Acquisition Corp. II Units,Industrials
+745,SAMG,Silvercrest Asset Management Group Inc.,Finance
+746,SANA,Sana Biotechnology Inc.,Health Care
+747,SANM,Sanmina Corporation,Technology
+748,SEV,Sono Group N.V.,Consumer Discretionary
+749,SFB,Stifel Financial Corporation 5.20 Senior Notes due 2047,Finance
+750,SFET,Safe-T Group Ltd.,Technology
+751,SFIX,Stitch Fix Inc.,Consumer Discretionary
+752,SFM,Sprouts Farmers Market Inc.,Consumer Discretionary
+753,SFT,Shift Technologies Inc.,Consumer Discretionary
+754,SGBX,Safe & Green Holdings Corp.,Industrials
+755,SGEN,Seagen Inc.,Health Care
+756,SGH,SMART Global Holdings Inc.,Technology
+757,SGHT,Sight Sciences Inc.,Health Care
+758,SHUA,SHUAA Partners Acquisition Corp I,Finance
+759,SIBN,SI-BONE Inc.,Health Care
+760,SIEN,Sientra Inc.,Health Care
+761,SJ,Scienjoy Holding Corporation ,Technology
+762,SKYW,SkyWest Inc.,Consumer Discretionary
+763,SKYX,SKYX Platforms Corp.,Technology
+764,SLGG,Super League Gaming Inc.,Industrials
+765,SLGL,Sol-Gel Technologies Ltd.,Health Care
+766,SLGN,Silgan Holdings Inc.,Industrials
+767,SLNO,Soleno Therapeutics Inc.,Health Care
+768,SLRC,SLR Investment Corp.,Finance
+769,SLRX,Salarius Pharmaceuticals Inc.,Health Care
+770,SLVM,Sylvamo Corporation,Consumer Staples
+771,SLVR,SilverSPAC Inc.,Finance
+772,SMAP,SportsMap Tech Acquisition Corp.,Industrials
+773,SMAR,Smartsheet Inc.,Technology
+774,SMCI,Super Micro Computer Inc.,Technology
+775,SMFL,Smart for Life Inc.,Consumer Staples
+776,SNCY,Sun Country Airlines Holdings Inc.,Consumer Discretionary
+777,SND,Smart Sand Inc.,Industrials
+778,SNDL,SNDL Inc.,Health Care
+779,SNDR,Schneider National Inc.,Industrials
+780,SNDX,Syndax Pharmaceuticals Inc.,Health Care
+781,SNES,SenesTech Inc.,Industrials
+782,SNOA,Sonoma Pharmaceuticals Inc.,Health Care
+783,SNOW,Snowflake Inc.,Technology
+784,SPSC,SPS Commerce Inc.,Technology
+785,SPT,Sprout Social Inc,Technology
+786,SQZ,SQZ Biotechnologies Company,Health Care
+787,SRAD,Sportradar Group AG,Technology
+788,SRC,Spirit Realty Capital Inc.,Real Estate
+789,SRCL,Stericycle Inc.,Utilities
+790,SRDX,Surmodics Inc.,Health Care
+791,SREA,DBA Sempra 5.750 Junior Subordinated Notes due 2079,Utilities
+792,SRG,Seritage Growth Properties,Real Estate
+793,SRI,Stoneridge Inc.,Consumer Discretionary
+794,SRRK,Scholar Rock Holding Corporation,Health Care
+795,SRT,StarTek Inc.,Technology
+796,SRTS,Sensus Healthcare Inc.,Health Care
+797,SSBI,Summit State Bank,Finance
+798,SSBK,Southern States Bancshares Inc.,Finance
+799,SSIC,Silver Spike Investment Corp.,Health Care
+800,SSKN,Strata Skin Sciences Inc.,Health Care
+801,SSNC,SS&C Technologies Holdings Inc.,Technology
+802,SSSS,SuRo Capital Corp.,Finance
+803,SST,System1 Inc.,Consumer Discretionary
+804,SSTI,ShotSpotter Inc.,Technology
+805,SSTK,Shutterstock Inc.,Technology
+806,SSY,SunLink Health Systems Inc.,Consumer Staples
+807,SSYS,Stratasys Ltd. (Israel),Technology
+808,ST,Sensata Technologies Holding plc,Industrials
+809,SUMO,Sumo Logic Inc.,Technology
+810,SUN,Sunoco LP Common Units,Energy
+811,SUNL,Sunlight Financial Holdings Inc.,Finance
+812,SUPN,Supernus Pharmaceuticals Inc.,Health Care
+813,SURF,Surface Oncology Inc.,Health Care
+814,SVFA,SVF Investment Corp.,Finance
+815,SVFAU,SVF Investment Corp. Unit,Finance
+816,SVT,Servotronics Inc.,Consumer Discretionary
+817,SWAG,Stran & Company Inc.,Consumer Discretionary
+818,SWAV,ShockWave Medical Inc.,Health Care
+819,SYNA,Synaptics Incorporated 0.001 Par Value,Technology
+820,SYNH,Syneos Health Inc.,Health Care
+821,SYRS,Syros Pharmaceuticals Inc.,Health Care
+822,TCPC,BlackRock TCP Capital Corp.,Finance
+823,TCRR,TCR2 Therapeutics Inc.,Health Care
+824,TCRX,TScan Therapeutics Inc.,Health Care
+825,TCVA,TCV Acquisition Corp.,Finance
+826,TDG,Transdigm Group Incorporated,Industrials
+827,TDOC,Teladoc Health Inc.,Health Care
+828,TDUP,ThredUp Inc.,Consumer Discretionary
+829,TDW,Tidewater Inc.,Energy
+830,TEAM,Atlassian Corporation,Technology
+831,TEDU,Tarena International Inc.,Consumer Discretionary
+832,TEF,Telefonica SA,Telecommunications
+833,TEI,Templeton Emerging Markets Income Fund Inc.,Finance
+834,TELA,TELA Bio Inc.,Health Care
+835,TENB,Tenable Holdings Inc.,Technology
+836,TERN,Terns Pharmaceuticals Inc.,Health Care
+837,TESS,TESSCO Technologies Incorporated,Telecommunications
+838,TGAAW,Target Global Acquisition I Corp. Warrant,Finance
+839,TGH,Textainer Group Holdings Limited,Consumer Discretionary
+840,TGI,Triumph Group Inc.,Industrials
+841,TGL,Treasure Global Inc.,Technology
+842,TGLS,Tecnoglass Inc.,Consumer Discretionary
+843,TGVC,TG Venture Acquisition Corp.,Industrials
+844,TGVCW,TG Venture Acquisition Corp. Warrants,Industrials
+845,THWWW,Target Hospitality Corp.,Consumer Discretionary
+846,TIGR,UP Fintech Holding Ltd,Finance
+847,TIL,Instil Bio Inc.,Health Care
+848,TIOA,Tio Tech A,Finance
+849,TMPO,Tempo Automation Holdings Inc.,Technology
+850,TMST,TimkenSteel Corporation,Industrials
+851,TNDM,Tandem Diabetes Care Inc.,Health Care
+852,TNGX,Tango Therapeutics Inc.,Health Care
+853,TNK,Teekay Tankers Ltd.,Consumer Discretionary
+854,TNON,Tenon Medical Inc.,Health Care
+855,TNP,Tsakos Energy Navigation Ltd,Consumer Discretionary
+856,TNYA,Tenaya Therapeutics Inc.,Health Care
+857,TPH,Tri Pointe Homes Inc.,Consumer Discretionary
+858,TPIC,TPI Composites Inc.,Technology
+859,TPX,Tempur Sealy International Inc.,Consumer Discretionary
+860,TRNO,Terreno Realty Corporation,Real Estate
+861,TRON,Corner Growth Acquisition Corp. 2,Finance
+862,TRONW,Corner Growth Acquisition Corp. 2 Warrants,Finance
+863,TROW,T. Rowe Price Group Inc.,Finance
+864,TRT,Trio-Tech International,Technology
+865,TRTX,TPG RE Finance Trust Inc.,Real Estate
+866,TRU,TransUnion,Finance
+867,TRUE,TrueCar Inc.,Technology
+868,TRVG,trivago N.V.,Technology
+869,TRVI,Trevi Therapeutics Inc.,Health Care
+870,TRVN,Trevena Inc.,Health Care
+871,TSCO,Tractor Supply Company,Consumer Discretionary
+872,TSEM,Tower Semiconductor Ltd.,Technology
+873,TSHA,Taysha Gene Therapies Inc.,Health Care
+874,TSLA,Tesla Inc.,Consumer Discretionary
+875,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,Technology
+876,TSP,TuSimple Holdings Inc.,Industrials
+877,TSQ,Townsquare Media Inc.,Consumer Discretionary
+878,TTCF,Tattooed Chef Inc,Consumer Staples
+879,TTD,The Trade Desk Inc.,Technology
+880,TTEC,TTEC Holdings Inc.,Technology
+881,TTEK,Tetra Tech Inc.,Consumer Discretionary
+882,TTGT,TechTarget Inc.,Technology
+883,TWLO,Twilio Inc.,Industrials
+884,TWTR,Twitter Inc.,Technology 
+885,ULCC,Frontier Group Holdings Inc.,Consumer Discretionary
+886,ULH,Universal Logistics Holdings Inc.,Industrials
+887,UMH,UMH Properties Inc.,Real Estate
+888,UNCY,Unicycive Therapeutics Inc.,Health Care
+889,UNFI,United Natural Foods Inc.,Consumer Discretionary
+890,UNMA,Unum Group 6.250,Finance
+891,UNVR,Univar Solutions Inc.,Industrials
+892,UP,Wheels Up Experience Inc.,Consumer Discretionary
+893,UPC,Universe Pharmaceuticals Inc.,Health Care
+894,UTRS,Minerva Surgical Inc.,Technology
+895,UTSI,UTStarcom Holdings Corp.,Telecommunications
+896,UTZ,Utz Brands Inc ,Consumer Staples
+897,UUU,Universal Security Instruments Inc.,Technology
+898,UXIN,Uxin Limited ADS,Consumer Discretionary
+899,VALN,Valneva SE,Health Care
+900,VALU,Value Line Inc.,Finance
+901,VANI,Vivani Medical Inc.,Health Care
+902,VAPO,Vapotherm Inc.,Health Care
+903,VAQC,Vector Acquisition Corporation II,Finance
+904,VAXX,Vaxxinity Inc.,Health Care
+905,VBLT,Vascular Biogenics Ltd.,Health Care
+906,VECT,VectivBio Holding AG,Health Care
+907,VEEE,Twin Vee PowerCats Co.,Consumer Discretionary
+908,VIRI,Virios Therapeutics Inc.,Health Care
+909,VIRT,Virtu Financial Inc.,Finance
+910,VKTX,Viking Therapeutics Inc.,Health Care
+911,VMW,Vmware Inc. Common stock,Technology
+912,VNDA,Vanda Pharmaceuticals Inc.,Health Care
+913,VNET,VNET Group Inc.,Technology
+914,VNOM,Viper Energy Partners LP Common Unit,Energy
+915,VNRX,VolitionRX Limited,Health Care
+916,VOC,VOC Energy Trust Units of Beneficial Interest,Energy
+917,VOR,Vor Biopharma Inc.,Health Care
+918,VOYA,Voya Financial Inc.,Finance
+919,VPCB,VPC Impact Acquisition Holdings II ordinary shre,Finance
+920,VPCBU,VPC Impact Acquisition Holdings II Unit,Finance
+921,VRSK,Verisk Analytics Inc.,Consumer Discretionary
+922,VRSN,VeriSign Inc.,Technology
+923,VRT,Vertiv Holdings LLC,Consumer Discretionary
+924,VRTX,Vertex Pharmaceuticals Incorporated,Health Care
+925,VSAT,ViaSat Inc.,Technology
+926,VSTA,Vasta Platform Limited,Real Estate
+927,VSTM,Verastem Inc.,Health Care
+928,VSTO,Vista Outdoor Inc.,Consumer Discretionary
+929,VTRU,Vitru Limited,Real Estate
+930,VTVT,vTv Therapeutics Inc.,Health Care
+931,VTYX,Ventyx Biosciences Inc.,Health Care
+932,VVOS,Vivos Therapeutics Inc.,Health Care
+933,VVR,Invesco Senior Income Trust (DE),Finance
+934,VVV,Valvoline Inc.,Industrials
+935,VYGR,Voyager Therapeutics Inc.,Health Care
+936,VYNE,VYNE Therapeutics Inc.,Health Care
+937,VZIO,VIZIO Holding Corp.,Consumer Staples
+938,W,Wayfair Inc.,Consumer Discretionary
+939,WAFU,Wah Fu Education Group Limited,Real Estate
+940,WAL,Western Alliance Bancorporation (DE),Finance
+941,WALD,Waldencast plc,Consumer Discretionary
+942,WALDW,Waldencast plc Warrant ,Consumer Discretionary
+943,WAVSW,Western Acquisition Ventures Corp. Warrant,Industrials
+944,WB,Weibo Corporation,Technology
+945,WCC,WESCO International Inc.,Consumer Discretionary
+946,WIRE,Encore Wire Corporation,Industrials
+947,WISA,WiSA Technologies Inc.,Technology
+948,WISH,ContextLogic Inc.,Consumer Discretionary
+949,WIW,Western Asset Inflation-Linked Opportunities & Income Fund,Finance
+950,WIX,Wix.com Ltd.,Technology
+951,WK,Workiva Inc.,Technology
+952,WKME,WalkMe Ltd.,Technology
+953,WLDN,Willdan Group Inc.,Consumer Discretionary
+954,WMG,Warner Music Group Corp.,Consumer Discretionary
+955,WMPN,William Penn Bancorporation,Finance
+956,WMS,Advanced Drainage Systems Inc.,Industrials
+957,WNC,Wabash National Corporation,Industrials
+958,WNS,WNS (Holdings) Limited Sponsored ADR (Jersey),Consumer Discretionary
+959,WNW,Meiwu Technology Company Limited,Consumer Discretionary
+960,WOOF,Petco Health and Wellness Company Inc.,Miscellaneous
+961,WORX,SCWorx Corp.,Health Care
+962,WOW,WideOpenWest Inc.,Consumer Discretionary
+963,WPRT,Westport Fuel Systems Inc,Consumer Discretionary
+964,WRLD,World Acceptance Corporation,Finance
+965,WSBF,Waterstone Financial Inc. (MD),Finance
+966,WSC,WillScot Mobile Mini Holdings Corp.,Consumer Discretionary
+967,WSR,Whitestone REIT,Real Estate
+968,WT,WisdomTree Inc.,Finance
+969,WTI,W&T Offshore Inc.,Energy
+970,WTMA,Welsbach Technology Metals Acquisition Corp.,Industrials
+971,WTMAR,Welsbach Technology Metals Acquisition Corp.,Finance
+972,WTS,Watts Water Technologies Inc.,Industrials
+973,WTT,Wireless Telecom Group Inc.,Telecommunications
+974,WTTR,Select Energy Services Inc.,Energy
+975,WTW,Willis Towers Watson Public Limited Company,Finance
+976,XENE,Xenon Pharmaceuticals Inc.,Health Care
+977,XERS,Xeris Biopharma Holdings Inc.,Health Care
+978,XFINW,ExcelFin Acquisition Corp Warrant,Industrials
+979,XFLT,XAI Octagon Floating Rate & Alternative Income Term Trust,Finance
+980,XFOR,X4 Pharmaceuticals Inc.,Health Care
+981,XGN,Exagen Inc.,Health Care
+982,XHR,Xenia Hotels & Resorts Inc.,Real Estate
+983,XIN,Xinyuan Real Estate Co Ltd,Consumer Discretionary
+984,XLO,Xilio Therapeutics Inc.,Health Care
+985,XM,Qualtrics International Inc.,Technology
+986,XMTR,Xometry Inc.,Technology
+987,XNCR,Xencor Inc.,Health Care
+988,XNET,Xunlei Limited,Technology
+989,XOMA,XOMA Corporation,Health Care
+990,XOS,Xos Inc.,Consumer Discretionary
+991,XOSWW,Xos Inc. Warrants,Consumer Discretionary
+992,XP,XP Inc.,Finance
+993,YGMZ,MingZhu Logistics Holdings Limited,Consumer Discretionary
+994,YI,111 Inc.,Consumer Staples
+995,YJ,Yunji Inc. American Depository Shares,Consumer Discretionary
+996,YMAB,Y-mAbs Therapeutics Inc.,Health Care
+997,YOSH,Yoshiharu Global Co.,Consumer Discretionary
+998,YPF,YPF Sociedad Anonima,Energy
+999,ZVSA,ZyVersa Therapeutics Inc.,Health Care
+1000,ZWS,Zurn Elkay Water Solutions Corporation,Utilities

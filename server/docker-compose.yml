@@ -1,0 +1,25 @@
+version: '3.4'
+
+services:
+  mariadb:
+    image: mariadb
+    ports:
+      - 3306:3306
+    environment: 
+      MYSQL_ROOT_PASSWORD: stocks
+      MYSQL_DATABASE: stocks
+      MYSQL_USER: stocks
+      MYSQL_PASSWORD: stocks
+    logging:
+      driver: syslog
+      options: 
+        tag: "{{.DaemonName}}(image={{.ImageName}};name={{.Name}};id={{.ID}})"
+    networks:
+      - backend
+    restart: on-failure
+    volumes: 
+      - ${PWD}/mariadb:/var/lib/mysql
+
+networks:
+  backend: 
+    driver: bridge

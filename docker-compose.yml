@@ -1,0 +1,54 @@
+version: '3.7'
+
+services:
+  nginx: 
+    depends_on:
+      - client
+      - api
+    restart: always
+    build:
+      dockerfile: Dockerfile
+      context: ./nginx
+    ports:
+      - 80:80
+  client:
+    stdin_open: true
+    build:
+      dockerfile: .docker/Dockerfile
+      context: ./client/
+    volumes:
+      - /app/node_modules
+      - ./client:/app
+  api:
+    depends_on:
+      - db
+    build:
+      dockerfile: .docker/Dockerfile
+      context: ./server/
+    volumes: 
+      - ./server/:/var/www/html/
+  db:
+    image: postgres
+    command: >
+      -c max_wal_size=5GB
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_DB: stocks
+      POSTGRES_USER: stocks
+      POSTGRES_PASSWORD: stocks
+    restart: always
+    volumes: 
+      - ${PWD}/postgres:/var/lib/postgresql/data
+        # db:
+        #   image: mariadb
+        #   ports:
+        #     - 3306:3306
+        #   environment: 
+        #     MYSQL_ROOT_PASSWORD: stocks
+        #     MYSQL_DATABASE: stocks
+        #     MYSQL_USER: stocks
+        #     MYSQL_PASSWORD: stocks
+        #   restart: on-failure
+        #   volumes: 
+        #     - ${PWD}/mariadb:/var/lib/mysql
