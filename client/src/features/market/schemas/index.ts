@@ -1,6 +1,6 @@
 import { z } from "zod"
-import { Asset } from "~/features/assets"
-import { BasePaginated, Price } from "~/schemas"
+import { Asset, Symbol } from "~/features/assets"
+import { BasePaginated, Name, Price } from "~/schemas"
 
 export const Growth = z.preprocess(Number, z.number().brand<'Growth'>())
 
@@ -10,6 +10,13 @@ export const MarketAsset = Asset.extend({
   lastHourGrowth: Growth,
   lastDayGrowth: Growth,
   lastWeekGrowth: Growth
+})
+
+export const AssetPrice = z.object({
+  name: Name,
+  symbol: Symbol,
+  price: Price,
+  date: z.string()
 })
 
 export const PaginatedMarketAssets = BasePaginated(MarketAsset)

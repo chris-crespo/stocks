@@ -8,7 +8,7 @@ type Props = React.InputHTMLAttributes<HTMLInputElement> & {
 
 // TODO: SearchBox could be a pure component, leaving debouncing
 // and state management as an implementation decision
-const SearchBox = ({ onSearch, className, ...props }: Props) => {
+const SearchBox = ({ onSearch, ...props }: Props) => {
   const [value, setValue] = useState('')
   const debouncedValue = useDebounce(value)
 
@@ -20,7 +20,7 @@ const SearchBox = ({ onSearch, className, ...props }: Props) => {
     <div>
       <SearchInput
         value={value}
-        onChange={e => setValue(e.target.value)} {...props}
+        onChange={e => setValue(e.target.value)}
         {...props}
       />
     </div>

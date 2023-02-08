@@ -1,6 +1,7 @@
 import { useState } from "react"
 import { Pagination, SearchBox } from "~/components/Elements"
 import { MainLayout } from "~/components/Layout"
+import { defaultRefetchInterval } from "~/config"
 import { usePaginatedStocks } from "../api/getPaginatedMarketAssets"
 import AssetsList from "../components/AssetsList"
 
@@ -11,6 +12,9 @@ const Stocks = () => {
     page,
     size: 10,
     searchTerm,
+    config: {
+      refetchInterval: defaultRefetchInterval
+    }
   })
 
   return (

@@ -27,10 +27,11 @@ Route::controller(AuthController::class)->prefix('auth')->group(function() {
     Route::post('logout', 'logout');
     Route::post('refresh', 'refresh');
 });
-
+ 
 Route::controller(MarketController::class)->prefix('market')->group(function() {
     Route::get('cryptos', 'cryptos');
     Route::get('stocks', 'stocks');
+    Route::get('last-prices', 'last_prices');
 });
 
 Route::controller(CryptoController::class)->prefix('cryptos')->group(function() {

@@ -8,7 +8,9 @@ import {
   TRegisterFailure, 
   TJwt,
   TMeSuccess,
-  TLoadUserFailure
+  TLoadUserFailure,
+  TRefreshSuccess,
+  TRefreshFailure
 } from "../types"
 import { 
   AuthSuccess,
@@ -44,11 +46,11 @@ export const register = (user: TRegisterCredentials) =>
     .json(AuthSuccess.parse))
 
 export const refresh = (jwt: TJwt) =>
-  wretch('/api/auth/refresh')
+  resultify<TRefreshSuccess, TRefreshFailure>(wretch('/api/auth/refresh')
     .auth(`Bearer ${jwt}`)
     .post()
     .error(400, parseFailure(RefreshFailure))
-    .json(RefreshSuccess.parse)
+    .json(RefreshSuccess.parse))
 
 export const logout = () => 
   resultify<TLogoutSuccess, unknown>(wretch('/api/auth/logout')

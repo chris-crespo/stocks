@@ -1,6 +1,7 @@
 import { useState } from "react"
 import { Pagination, SearchBox } from "~/components/Elements"
 import { MainLayout } from "~/components/Layout"
+import { defaultRefetchInterval } from "~/config"
 import usePage from "~/hooks/usePage"
 import { usePaginatedCryptos } from "../api/getPaginatedMarketAssets"
 import AssetsList from "../components/AssetsList"
@@ -12,6 +13,9 @@ const Cryptos = () => {
     page,
     size: 10,
     searchTerm,
+    config: {
+      refetchInterval: defaultRefetchInterval
+    }
   })
 
   return (

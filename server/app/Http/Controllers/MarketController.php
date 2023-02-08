@@ -54,6 +54,30 @@ class MarketController extends Controller
         ]);
     }
 
+    public function last_prices(Request $request) {
+        $symbols = $request->input('symbol') ?? [];
+        $span = $request->input('span') ?? 'day';
+
+        $table = $span === 'month'
+          ? 'this_months_asset_prices'
+          : ($span === 'week'
+            ? 'this_weeks_asset_prices'
+            : 'todays_asset_prices');
+
+        $prices = DB::table($table)
+            ->orderBy('date', 'asc')
+            ->whereIn('symbol', $symbols)
+            ->get()
+            ->toArray();
+
+        return response()->json([
+            'status' => 'success',
+            'data' => [
+                'prices' => $prices
+            ]
+        ]);
+    }
+
     function stdClassToArray($klass) {
         return json_decode(json_encode($klass, true), true);
     }

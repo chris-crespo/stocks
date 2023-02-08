@@ -2,6 +2,7 @@ import { zodResolver } from "@hookform/resolvers/zod"
 import { useEffect } from "react"
 import { SubmitHandler, useForm } from "react-hook-form"
 import { TAsset } from "~/features/assets"
+import { TId } from "~/types"
 import { entries } from "~/utils/object"
 import { useCreateWatchlist } from "../../api/createWatchlist"
 import { CreateWatchlistFields } from "../../schemas"
@@ -14,10 +15,10 @@ import SelectAssets from "./SelectAssets"
 
 type Props = {
   setCanSubmit: (canSubmit: boolean) => void
-  closeDrawer: () => void
+  onCreate: (watchlistId: TId) => void
 }
 
-const CreateWatchlistForm = ({ setCanSubmit, closeDrawer }: Props) => {
+const CreateWatchlistForm = ({ setCanSubmit, onCreate }: Props) => {
   const createWatchlist = useCreateWatchlist()
   const {
     formState: { errors, isValid },
@@ -54,11 +55,11 @@ const CreateWatchlistForm = ({ setCanSubmit, closeDrawer }: Props) => {
     })
 
     if (result.ok) {
-      closeDrawer()
+      onCreate(result.val.data.watchlist.id)
     } else {
+      console.log({ err: result.val })
       displayErrors(result.val.errors)
     }
-
   }
 
   const displayErrors = (errors: TCreateWatchlistFailure['errors']) => {

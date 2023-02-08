@@ -6,14 +6,15 @@ const queryConfig: DefaultOptions = {
     keepPreviousData: true,
     staleTime: 5000,
     refetchOnWindowFocus: false,
-    retry: false
+    retry: false,
+    
   }
 }
 
 export const queryClient = new QueryClient({ defaultOptions: queryConfig })
 
-export type QueryConfig<T> = Omit<
-  UseQueryOptions<T>,
+export type QueryConfig<T, E = unknown> = Omit<
+  UseQueryOptions<T, E>,
   'queryKey' | 'queryFn'
 >
 

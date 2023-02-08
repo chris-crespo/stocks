@@ -16,6 +16,8 @@ postgres = { version = "0.19", features = ["with-chrono-0_4", "with-serde_json-1
 rand = "0.8.5"
 reqwest = { version = "0.11", features = ["json"] }
 serde = { version = "1", features = ["derive"] }
+serde-pgrow = "0.3.4"
 sqlx = { version = "0.6", features = ["runtime-tokio-rustls", "postgres", "chrono"] }
 tokio = { version = "1", features = ["full"] }
+tokio-cron-scheduler = { version = "*", features = ["signal"] }
 unfold = "0.2"

@@ -19,7 +19,7 @@ return new class extends Migration
             from cryptos join crypto_price 
             on cryptos.id = crypto_price.crypto_id
             where date between now() - interval '1 week' and now()
-            and   extract(minute from date) % 10 = 0
+            and   extract(minute from date) % 30 = 0
             order by date asc;
         ");
 
@@ -29,7 +29,7 @@ return new class extends Migration
             from stocks join stock_price 
             on stocks.id = stock_price.stock_id
             where date between now() - interval '1 week' and now()
-            and   extract(minute from date) % 10 = 0
+            and   extract(minute from date) % 30 = 0
             order by date asc;
         ");
 

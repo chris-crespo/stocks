@@ -18,7 +18,7 @@ return new class extends Migration
             select crypto_id, name, symbol, price, date from cryptos join crypto_price
             on cryptos.id = crypto_price.crypto_id
             where date between now() - interval '1 month' and now()
-            and   extract(minute from date) % 30 = 0
+            and   extract(minute from date) = 0
             order by date asc;
         ");
 
@@ -27,7 +27,7 @@ return new class extends Migration
             select stock_id, name, symbol, price, date from stocks join stock_price
             on stocks.id = stock_price.stock_id
             where date between now() - interval '1 month' and now()
-            and   extract(minute from date) % 30 = 0
+            and   extract(minute from date) = 0
             order by date asc;
         ");
 

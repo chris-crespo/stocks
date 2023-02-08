@@ -30,7 +30,9 @@ export const CreateWatchlistFields = z.object({
   stocks: Asset.array()
 })
 
-export const CreateWatchlistSuccess = BaseSuccess({ watchlist: Watchlist })
+export const CreateWatchlistSuccess = BaseSuccess({ 
+  watchlist: Watchlist.omit({ cryptos: true, stocks: true })
+})
 
 export const CreateWatchlistFailure = BaseFailure({
   name: Messages,

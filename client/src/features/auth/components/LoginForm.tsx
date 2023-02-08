@@ -7,6 +7,7 @@ import { zodResolver } from "@hookform/resolvers/zod"
 import { TLoginCredentials, TLoginFailure } from "../types"
 import { LoginCredentials } from "../schemas"
 import { entries } from "~/utils/object"
+import { Link } from "react-router-dom"
 
 // TODO: Refactor component
 const LoginForm: React.FC = () => {
@@ -57,6 +58,11 @@ const LoginForm: React.FC = () => {
       </div>
 
       <Button type="submit" disabled={!isValid}>Sign in</Button>
+
+      <div className="text-center mt-8 text-sm text-gray-400">
+        <span className="pr-2">Don't have an account?</span>
+        <Link to="/auth/register" className="text-indigo-400 cursor-pointer">Sign up</Link>
+      </div>
     </form>
   )
 }

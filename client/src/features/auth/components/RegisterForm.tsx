@@ -7,12 +7,13 @@ import type { TRegisterCredentials, TRegisterFailure } from "../types"
 import * as schemas from '../schemas'
 import FormTitle from "./FormTitle"
 import { entries } from "~/utils/object"
+import { Link } from "react-router-dom"
 
 // TODO: Refactor component
 const RegisterForm: React.FC = () => {
   const auth = useAuth()
   const {
-    formState: { errors },
+    formState: { errors, isValid },
     handleSubmit,
     register,
     setError
@@ -66,7 +67,12 @@ const RegisterForm: React.FC = () => {
         />
       </div>
 
-      <Button type="submit">Create account</Button>
+      <Button type="submit" disabled={!isValid}>Create account</Button>
+
+      <div className="text-center mt-8 text-sm text-gray-400">
+        <span className="pr-2">Already have an account?</span>
+        <Link to="/auth/login" className="text-indigo-400 cursor-pointer">Sign in</Link>
+      </div>
     </form>
   )
 }

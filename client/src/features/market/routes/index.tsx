@@ -1,17 +1,12 @@
-import { Routes, Route } from "react-router-dom"
-import Crypto from "./Crypto"
+import { Routes, Route, Navigate } from "react-router-dom"
 import Cryptos from "./Cryptos"
-import Market from "./Market"
-import Stock from "./Stock"
 import Stocks from "./Stocks"
 
 const MarketRoutes = () => (
   <Routes>
     <Route path="/cryptos" element={<Cryptos />} />
-    <Route path="/cryptos/:symbol" element={<Crypto />} />
     <Route path="/stocks" element={<Stocks />} />
-    <Route path="/stocks/:symbol" element={<Stock />} />
-    <Route path="/*" element={<Market />} />
+    <Route path="*" element={<Navigate to="/market/cryptos" replace />} />
   </Routes>
 )
 

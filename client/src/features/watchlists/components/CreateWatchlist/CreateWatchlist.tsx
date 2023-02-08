@@ -1,13 +1,22 @@
 import { useState } from "react";
 import { IoMdClose } from "react-icons/io";
+import { useNavigate } from "react-router-dom";
 import { Drawer } from "~/components/Elements"
 import { Button, CreateButton } from "~/components/Elements"
 import useDisclosure from "~/hooks/useDisclosure"
+import { TId } from "~/types";
 import CreateWatchlistForm from "./CreateWatchlistForm";
 
 const CreateWatchlist = () => {
   const { isOpen, open, close } = useDisclosure()
   const [buttonDisabled, setButtonDisabled] = useState(false)
+
+  const navigate = useNavigate()
+  const onCreate = (watchlistId: TId) => {
+    console.log('create')
+    close()
+    navigate(`/watchlists/${watchlistId}`)
+  }
 
   return (
     <>
@@ -48,7 +57,7 @@ const CreateWatchlist = () => {
       >
         <CreateWatchlistForm
           setCanSubmit={canSubmit => setButtonDisabled(!canSubmit)}
-          closeDrawer={close}
+          onCreate={onCreate}
         />
       </Drawer>
     </>

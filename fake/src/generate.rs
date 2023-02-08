@@ -11,7 +11,7 @@ pub fn generate_data() -> Vec<f64> {
         .collect()
 }
 
-fn generate_data_frame(old: f64) -> f64 {
+pub fn generate_data_frame(old: f64) -> f64 {
     let rand = thread_rng().gen_range(-0.51..0.5115);
 
     let change_percent = 2.0 * VOLATILITY * rand;

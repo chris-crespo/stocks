@@ -3,7 +3,7 @@ version: '3.7'
 services:
   nginx: 
     depends_on:
-      - client
+      # - client
       - api
     restart: always
     build:
@@ -27,6 +27,17 @@ services:
       context: ./server/
     volumes: 
       - ./server/:/var/www/html/
+  fake:
+    depends_on:
+      - api
+      - db
+    build:
+      dockerfile: .docker/Dockerfile
+      context: ./fake/
+    volumes:
+      - ./fake/:/app
+    env_file:
+      - ./fake/.env
   db:
     image: postgres
     command: >

@@ -18,7 +18,8 @@ return new class extends Migration
             select 
                 distinct on (crypto_id) crypto_id, 
                 price 
-            from todays_crypto_prices;
+            from todays_crypto_prices
+            order by crypto_id, date desc;
         ");
 
         DB::statement("
@@ -26,7 +27,8 @@ return new class extends Migration
             select 
                 distinct on (stock_id) stock_id as stock_id, 
                 price 
-            from todays_stock_prices;
+            from todays_stock_prices
+            order by stock_id, date desc;
         ");
     }
 

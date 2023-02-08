@@ -1,3 +1,12 @@
 export * from './api/searchAsset'
-export { Asset } from './schemas'
-export * from './types'
+
+export { 
+  Asset, 
+  Symbol 
+} from './schemas'
+
+export type { 
+  AssetKind, 
+  TAsset, 
+  TSymbol 
+} from './types'
