@@ -7,7 +7,7 @@ modulo de generacion de datos escrito en `rust`; y despliegue con `docker` y `ng
 
 * [Cliente](#cliente)
 * [Servidor](#servidor)
-* [Generador de datos](#generador)
+* [Generador de datos](#generador-de-datos)
 * [Despliegue](#despliegue)
 
 Cliente
@@ -19,5 +19,5 @@ Servidor
 Generador de datos
 ==================
 
-Despligue
+Despliegue
 =========
