@@ -264,3 +264,13 @@ En caso de querer ejecutar el programa, se recomienda hacerlo mediante `cargo ru
 
 Despliegue
 ==========
+
+*Nota: faltaria asegurarnos de que la base de datos se levanta antes que la api de laravel*
+
+Usamos los contenedores indicados:
+
+* proxy nginx 
+* cliente
+* servidor
+* generador de datos
+* base de datos
