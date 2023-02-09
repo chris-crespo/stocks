@@ -28,6 +28,9 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         .unwrap_or(100)
         .clamp(10, 1000);
 
+    wait_for_tables_ready().await;
+    println!("Ready!");
+
     let insert_cryptos = tokio::spawn(async move {
         println!("Fetching cryptos...");
         let cryptos = fetch_cryptos(asset_count).await.unwrap().data;
@@ -77,7 +80,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
 fn create_pool() -> PgPool {
     let opts = PgConnectOptions::new()
-        .host("localhost")
+        .host("db")
         .username("stocks")
         .password("stocks")
         .database("stocks");
@@ -85,3 +88,14 @@ fn create_pool() -> PgPool {
     PgPool::connect_lazy_with(opts)
 }
 
+async fn wait_for_tables_ready() {
+    let mut interval = interval(std::time::Duration::from_secs(60));
+    loop { 
+        if DBB.is_ready().await {
+            break;
+        }
+        println!("Waiting");
+
+        interval.tick().await; 
+    };
+}

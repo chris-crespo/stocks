@@ -4,8 +4,9 @@ import { Fragment } from "react"
 import { AiFillCaretDown, AiFillCaretUp } from 'react-icons/ai'
 import { TbDotsVertical } from 'react-icons/tb'
 import { Link } from "react-router-dom"
-import { TName } from "~/types"
-import { TMarketCap, TPercentChange, TPrice, TSymbol } from "../types"
+import { TSymbol } from "~/features/assets"
+import { TName, TPrice } from "~/types"
+import { TGrowth } from "../types"
 
 type NameCellProps = {
   name: TName,
@@ -36,7 +37,7 @@ export const PriceCell = ({ price }: PriceCellProps) => (
 )
 
 type PercentChangeCellProps = {
-  percentChange: TPercentChange
+  percentChange: TGrowth
 }
 
 export const PercentChangeCell = ({ percentChange }: PercentChangeCellProps) => {
@@ -54,7 +55,7 @@ export const PercentChangeCell = ({ percentChange }: PercentChangeCellProps) => 
 }
 
 type MarketCapCellProps = {
-  marketCap: TMarketCap
+  marketCap: TPrice
 }
 
 export const MarketCapCell = ({ marketCap }: MarketCapCellProps) => (

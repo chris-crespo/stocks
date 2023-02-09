@@ -14,6 +14,7 @@ const SearchAsset = ({ assetKind, onSelect }: Props) => {
   const [query, setQuery] = useState('')
   const debouncedQuery = useDebounce(query, 300)
   const { data } = useSearchAssets({
+    page: 0,
     kind: assetKind,
     searchTerm: debouncedQuery,
   })

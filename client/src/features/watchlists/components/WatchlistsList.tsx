@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom"
 import { Chip, Table } from "~/components/Elements"
 import { TAsset } from "~/features/assets"
-import { TWatchlistSummary } from "../types"
+import { TWatchlist } from "../types"
 
 type AssetsProps = {
   assets: TAsset[]
@@ -21,11 +21,11 @@ const Assets = ({ assets }: AssetsProps) => (
 )
 
 type WatchlistsListProps = {
-  watchlists: TWatchlistSummary[]
+  watchlists: TWatchlist[]
 }
 
 const WatchlistsList = ({ watchlists }: WatchlistsListProps) => (
-  <Table<TWatchlistSummary>
+  <Table<TWatchlist>
     data={watchlists}
     columns={[
       {

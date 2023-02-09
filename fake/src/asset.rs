@@ -33,7 +33,6 @@ pub async fn fetch_cryptos(limit: usize) -> Result<CryptosResponse, Box<dyn std:
             Ok(response.json().await?)
         }
         Err(e) => {
-            println!("{}", e.to_string());
             Err(Box::new(e))
         }
     }
@@ -66,7 +65,6 @@ pub struct LastCryptoPrice {
 
 impl LastCryptoPrice {
     pub fn next_price(&self, date: DateTime<Utc>) -> CryptoPrice {
-        println!("{} {}", self.price, generate_data_frame(self.price));
         CryptoPrice {
             crypto_id: self.crypto_id,
             price: generate_data_frame(self.price),
@@ -97,7 +95,6 @@ pub struct LastStockPrice {
 
 impl LastStockPrice {
     pub fn next_price(&self, date: DateTime<Utc>) -> StockPrice {
-        println!("{} {}", self.price, generate_data_frame(self.price));
         StockPrice {
             stock_id: self.stock_id,
             price: generate_data_frame(self.price),

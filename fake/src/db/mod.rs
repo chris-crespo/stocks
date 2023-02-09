@@ -27,6 +27,14 @@ impl<'a> DB<'a> {
         }
     }
 
+    pub async fn is_ready(&self) -> bool {
+        sqlx::query("select from information_schema.tables where table_name = 'cryptos'")
+            .fetch_optional(self.pool)
+            .await
+            .unwrap()
+            .is_some() 
+    }
+
     pub async fn refresh_materialized_views_after_inserts(&self) {
         self.execute_queries(vec![
             queries::view::REFRESH_CRYPTO_MARKET_CAP_MATERIALIZED_VIEW,
