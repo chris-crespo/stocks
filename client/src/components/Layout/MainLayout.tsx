@@ -1,10 +1,12 @@
 import clsx from "clsx";
 import { GrFormDown, GrFormUp, GrPieChart } from 'react-icons/gr'
-import { MdStackedLineChart } from 'react-icons/all'
+import { FiLogOut, MdStackedLineChart } from 'react-icons/all'
 import { useLocation } from "react-router-dom";
 import { NavLink } from "react-router-dom";
 import useDisclosure from "~/hooks/useDisclosure";
 import Head from "../Head";
+import { Button } from "../Elements";
+import { useAuth } from "~/lib/auth";
 
 type NavigationCategory = {
   name: string;
@@ -101,11 +103,23 @@ const SideNavigation = () => {
   )
 }
 
-const Sidebar = () => (
-  <div className="h-full pt-24">
-    <SideNavigation />
-  </div>
-)
+const Sidebar = () => {
+  const { logout } = useAuth()
+
+  return (
+    <div className="flex flex-col h-full pt-24">
+      <SideNavigation />
+      <div className="mt-auto pl-6 pr-7 py-8">
+        <Button className="bg-red-400 text-sm hover:bg-red-300" onClick={() => logout()}>
+          <span className="flex justify-center items-center">
+            <span className="mr-2"><FiLogOut /></span>
+            Logout
+          </span>
+        </Button>
+      </div>
+    </div>
+  )
+}
 
 type MainLayoutProps = {
   children: React.ReactNode
