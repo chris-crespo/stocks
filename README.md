@@ -274,3 +274,29 @@ Usamos los contenedores indicados:
 * servidor
 * generador de datos
 * base de datos
+
+Nginx
+-----
+
+La configuracion se puede encontrar [aqui](https://github.com/krs98/stocks/tree/main/nginx). La parte destacable es el uso de `fastgci` para enviar las solicitudes a `php-fpm` por sockets.
+
+Client
+------
+
+Configuracion [aqui](https://github.com/krs98/stocks/tree/main/client/.docker). 
+
+Realizamos la build con `vite` y copiamos los archivos al directorio de nginx. Durante el desarrollo usamos un proxy para redirigir las peticiones de `/api` a `http://localhost:8000`, como se puede ver en la [configuracion](https://github.com/krs98/stocks/blob/main/client/vite.config.ts), por lo que no necesitamos reescribir las rutas para que estas funcionen con nginx.
+
+Servidor
+--------
+
+Configuracion [aqui](https://github.com/krs98/stocks/tree/main/server/.docker).
+
+Usamos la imagen `php-fpm` para levantar un servidor de produccion. Mediante un script ejecutamos las migraciones y posteriormente ejecutamos el servidor.
+
+Generador
+---------
+
+Configuracion [aqui](https://github.com/krs98/stocks/tree/main/fake/.docker).
+
+Usamos la imagen de `rust` para crear los archivos binarios y posteriormente los ejecutamos en `debian`.
