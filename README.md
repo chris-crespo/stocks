@@ -111,19 +111,27 @@ La aplicacion esta dividida en diferentes rutas que son gestionadas por un [rout
 
 Las dos primeras rutas son publicas, mientras que el resto son privadas. En [este](https://github.com/krs98/stocks/blob/main/client/src/lib/auth.tsx) y [estos](https://github.com/krs98/stocks/tree/main/client/src/routes) archivos podemos ver la logica que se usa.
 
+*Nota: Cualquier defecto visual en las proximas imagenes es causado por temas de resolucion.*
+
 ### `/auth/login`
 
 Es la ruta mediante la cual un usuario puede acceder a su cuenta.
 
 Tanto esta ruta como la siguiente disponen de una seccion en la cual se muestra una opinion escrita por un usuario (en realidad, usa la api de `openai` y el modelo `davinci` para generarla. Por eso tarda tanto. Para probarlo en local hara falta añadir el token apropiado a `.env`).
 
+![Login](screenshots/login.png)
+
 ### `/auth/register`
 
-ruta que usa un usuario para crear una cuenta.
+Ruta que usa un usuario para crear una cuenta.
+
+![Register](screenshots/register.png)
 
 ### `/market/cryptos`
 
 Muestra informacion de criptocurrencias en tiempo real. Es primera pagina que ve el usuario tras acceder a su cuenta. Tanto esta ruta como la siguiente disponen de cuadros de busqueda para filtrar en base al nombre/simbolo. Usamos un `debounce` para realizar las peticiones una vez el usuario ha dejado de escribir, y asi evitar saturar el servidor lanzando una peticion por cada tecla.
+
+![Cryptos](screenshots/cryptos.png)
 
 ### `/market/stocks`
 
@@ -135,12 +143,18 @@ Muestra las listas creadas por el usuario.
 
 Ademas, en la parte superior derecha podemos ver un boton que, al clickar, abre un `drawer` con un formulario para crear una nueva lista. Los datos necesarios para su creacion son: titulo, descripcion, cryptos, y acciones. Una vez creada el usuario sera redirigido a la ruta correspondiente a esa lista.
 
+![Watchlists](screenshots/watchlists.png)
+
+![Watchlists create](screenshots/watchlists-form.png)
+
 ### `/watchlists/:id`
 
 Muestra la lista indicada. Cuenta con dos secciones:
 
 * la cabecera, en la cual se muestran el titulo y descripcion.
 * el contenido, donde se muestra la grafica y las acciones en forma de tarjeta. Estas tarjetas pueden ser clickadas para activarlas/desactivarlas o arrastradas a la grafica para activarla. Por defecto, todas las tarjetas se encuentran activadas. Ademas, podemos seleccionar el periodo de tiempo que se mostrar en la  grafica (hay demasiados datos, y la grafica se renderiza usando svg para poder ser interactiva, asi que es bastante lenta).
+
+![Watchlist](screenshots/watchlist.png)
 
 Servidor
 ========
