@@ -78,6 +78,14 @@ A continuacion se muestran los componentes principales.
 
 ![Card](screenshots/card.png)
 
+### Review
+
+#### Esqueleto
+![Esqueleto](screenshots/review-skeleton.png)
+
+#### Completo
+![Completo](screenshots/review.png)
+
 Gestion de peticiones
 ---------------------
 
