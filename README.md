@@ -1,5 +1,5 @@
-stocks
-======
+Stocks Seer
+===========
 
 Indice
 ======
@@ -41,21 +41,42 @@ A continuacion se muestran los componentes principales.
 
 ### Input
 
+#### Normal
+![Normal](screenshots/input.png)
+
+#### Focus
+![Focus](screenshots/input-focus.png)
+
 ### Boton
 
-### Cuadro de busqueda
+#### Primario
+![Primario](screenshots/btn-primary.png)
 
-### Menus desplegables
+#### Primario deshabilitado
+![Primario deshabilitado](screenshots/btn-primary-disabled.png)
+
+#### Secundario
+![Secundario](screenshots/btn-secondary.png)
 
 ### Barra de navegacion
 
+![Sidebar](screenshots/sidebar.png)
+
 ### Tablas
+
+![Tabla](screenshots/table.png)
 
 ### Chips
 
+![Chip](screenshots/chip.png)
+
 ### Grafica
 
+![Chart](screenshots/chart.png)
+
 ### Tarjetas
+
+![Card](screenshots/card.png)
 
 Gestion de peticiones
 ---------------------

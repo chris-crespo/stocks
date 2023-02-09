@@ -83,10 +83,6 @@ const SideNavigation = () => {
         {
           name: 'My watchlists',
           to: '/watchlists/my'
-        },
-        {
-          name: 'Browse watchlists',
-          to: '/watchlists/browse'
         }
       ]
     }

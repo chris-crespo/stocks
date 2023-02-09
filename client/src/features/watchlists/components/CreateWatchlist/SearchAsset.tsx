@@ -46,7 +46,7 @@ const SearchAsset = ({ assetKind, onSelect }: Props) => {
         className="mb-6"
         placeholder={`Search ${assetKind}...`}
       />
-      <Combobox.Options className="absolute top-12 bg-white w-full rounded-lg border border-gray-300 shadow-sm shadow-gray-100 py-1">
+      <Combobox.Options className="absolute z-20 top-12 bg-white w-full rounded-lg border border-gray-300 shadow-sm shadow-gray-100 py-1">
         {assets.map(asset => (
           <Combobox.Option
             className="cursor-pointer hover:bg-gray-100 px-4 py-3 text-sm"
